@@ -52,7 +52,7 @@ class PapertrailRoutePlugin extends BasePlugin
 	 */
 	public function getDocumentationUrl()
 	{
-		return 'https://github.com/https://github.com/madebykind/craft-papertrail-route/papertrailroute/blob/master/README.md';
+		return 'https://github.com/madebykind/craft.PapertrailRoute/blob/master/README.md';
 	}
 
 	/**
@@ -60,7 +60,7 @@ class PapertrailRoutePlugin extends BasePlugin
 	 */
 	public function getReleaseFeedUrl()
 	{
-		return 'https://raw.githubusercontent.com/https://github.com/madebykind/craft-papertrail-route/papertrailroute/master/releases.json';
+		return 'https://raw.githubusercontent.com/madebykind/craft.PapertrailRoute/master/releases.json';
 	}
 
 	/**

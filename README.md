@@ -26,8 +26,8 @@ This is useful on load-balanced / PaaS setups where you need to aggregate multip
 To install Papertrail Route, follow these steps:
 
 1. Download & unzip the file and place the `papertrailroute` directory into your `craft/plugins` directory
-2.  -OR- do a `git clone https://github.com/https://github.com/madebykind/craft-papertrail-route/papertrailroute.git` directly into your `craft/plugins` folder.  You can then update it with `git pull`
-3.  -OR- install with Composer via `composer require https://github.com/madebykind/craft-papertrail-route/papertrailroute`
+2.  -OR- do a `git clone https://github.com/madebykind/craft.PapertrailRoute.git` directly into your `craft/plugins` folder.  You can then update it with `git pull`
+3.  -OR- install with Composer via `composer require https://github.com/madebykind/craft.PapertrailRoute`
 4. Install plugin in the Craft Control Panel under Settings > Plugins
 5. The plugin folder should be named `papertrailroute` for Craft to see it.  GitHub recently started appending `-master` (the branch name) to the name of the folder for zip file downloads.
 
