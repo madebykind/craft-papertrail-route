@@ -1,5 +1,5 @@
 {
-	"name": "https://github.com/madebykind/craft-papertrail-route/papertrailroute",
+	"name": "https://github.com/madebykind/craft.PapertrailRoute",
 	"description": "Provides a Craft log route to send logs to Papertrail (papertrailapp.com)",
 	"type": "craft-plugin",
 	"authors": [
